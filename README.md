@@ -1,1 +1,1 @@
-# first-project-cs-server
+# first-project-superheroes
